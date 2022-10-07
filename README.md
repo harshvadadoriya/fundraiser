@@ -3,10 +3,8 @@
 <li>The purpose of the project is to make an application to raise funds for medical treatment. There are many in need and more who can and want to help the people. Medical bills are a burden for many individuals and families. Expenses related to hospital stays, cancer treatments and other medicinal costs can be even higher so this application will help those needy people.</li>
 <li><b>Technologies used: </b>Wordpress, HTML, CSS</li>
 </ul>
-<a href="" class="btn btn-one">Watch Video</a>
-<div class="button">
-  <a href="" class="btn btn-one">Watch Video</a>
-</div>
+<a href="https://drive.google.com/file/d/1axmlv-0rc5eyM5Zt7ID-3582PS-f0obw/view?usp=sharing" class="btn btn-one">Watch Video</a>
+
 
 ## Take a look
 
